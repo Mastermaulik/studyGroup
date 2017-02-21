@@ -3,7 +3,7 @@ title: Make Your First Event
 text: In order to make your first event, follow the instructions here.
 location: Your Location
 link: https://github.com/Mastermaulik/studyGroup/issues/1
-date: 2017-02-01
+date: 2017-04-04
 startTime: '20:00'
 endTime: '21:00'
 
