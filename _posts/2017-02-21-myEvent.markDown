@@ -1,0 +1,7 @@
+title: Study Group Meetup
+text: a one sentence description of your event
+location: Hacky Hour Stadium
+link: https://github.com/Mastermaulik/studyGroup/issues/1
+date: 2016-01-04
+startTime: '15:00'
+endTime: '16:00'
