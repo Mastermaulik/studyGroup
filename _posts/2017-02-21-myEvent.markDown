@@ -1,7 +1,10 @@
-title: Study Group Meetup
-text: a one sentence description of your event
-location: Hacky Hour Stadium
+---
+title: Make Your First Event
+text: In order to make your first event, follow the instructions here.
+location: Your Location
 link: https://github.com/Mastermaulik/studyGroup/issues/1
-date: 2016-01-04
-startTime: '15:00'
-endTime: '16:00'
+date: 2017-02-01
+startTime: '20:00'
+endTime: '21:00'
+
+---
